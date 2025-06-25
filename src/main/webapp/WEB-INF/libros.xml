@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libros>
+    <libro ISBN="9780307474728">
+        <titulo>Cien años de soledad</titulo>
+        <annoPublicacion>1967</annoPublicacion>
+        <idsAutores>
+            <idAutor>1</idAutor>
+        </idsAutores>
+    </libro>
+    <libro ISBN="9788437604947">
+        <titulo>Rayuela</titulo>
+        <annoPublicacion>1963</annoPublicacion>
+        <idsAutores>
+            <idAutor>2</idAutor>
+        </idsAutores>
+    </libro>
+    <libro ISBN="9780062254455">
+        <titulo>La casa de los espíritus</titulo>
+        <annoPublicacion>1982</annoPublicacion>
+        <idsAutores>
+            <idAutor>3</idAutor>
+        </idsAutores>
+    </libro>
+    <libro ISBN="9788420437482">
+        <titulo>La ciudad y los perros</titulo>
+        <annoPublicacion>1963</annoPublicacion>
+        <idsAutores>
+            <idAutor>4</idAutor>
+        </idsAutores>
+    </libro>
+    <libro ISBN="9780307474729">
+        <titulo>El otoño del patriarca</titulo>
+        <annoPublicacion>1975</annoPublicacion>
+        <idsAutores>
+            <idAutor>1</idAutor>
+        </idsAutores>
+    </libro>
+    <libro ISBN="9788437604954">
+        <titulo>Final del juego</titulo>
+        <annoPublicacion>1956</annoPublicacion>
+        <idsAutores>
+            <idAutor>2</idAutor>
+        </idsAutores>
+    </libro>
+    <libro ISBN="9789875666658">
+        <titulo>Paula</titulo>
+        <annoPublicacion>1994</annoPublicacion>
+        <idsAutores>
+            <idAutor>3</idAutor>
+        </idsAutores>
+    </libro>
+    <libro ISBN="9788420437499">
+        <titulo>Conversación en La Catedral</titulo>
+        <annoPublicacion>1969</annoPublicacion>
+        <idsAutores>
+            <idAutor>4</idAutor>
+        </idsAutores>
+    </libro>
+</libros>

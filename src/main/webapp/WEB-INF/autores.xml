@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autores>
+    <autor idAutor="1">
+        <nombre>Gabriel</nombre>
+        <apellidos>García Márquez</apellidos>
+        <nacionalidad>Colombiana</nacionalidad>
+    </autor>
+    <autor idAutor="2">
+        <nombre>Julio</nombre>
+        <apellidos>Cortázar</apellidos>
+        <nacionalidad>Argentina</nacionalidad>
+    </autor>
+    <autor idAutor="3">
+        <nombre>Isabel</nombre>
+        <apellidos>Allende</apellidos>
+        <nacionalidad>Chilena</nacionalidad>
+    </autor>
+    <autor idAutor="4">
+        <nombre>Mario</nombre>
+        <apellidos>Vargas Llosa</apellidos>
+        <nacionalidad>Peruana</nacionalidad>
+    </autor>
+</autores>
